@@ -1,0 +1,1 @@
+javac -classpath "D:\Java_Files\Threads\class" -d D:\Java_Files\Threads\class %1
